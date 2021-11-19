@@ -1,6 +1,6 @@
 #!/bin/bash
 
-    #Name : Twitter Card Generato
+    #Name : Twitter Card Generator
     #Created by : SAMER SAEID
     #Copyright : MIT
     #URL: https://www.facebook.com/samerthehariri/
