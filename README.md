@@ -31,4 +31,4 @@ https://git-scm.com/download/mac
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/)
