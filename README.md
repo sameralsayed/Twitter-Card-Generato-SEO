@@ -18,7 +18,7 @@ https://git-scm.com/download/mac
 ```
 
 
-# Thank you for using. If you like it, please support us with some crypto
+# support us with crypto
 ```python
 0xf9aDE98aE47A0B4763047e2A337B2f12ac7a7649
 ```
