@@ -35,12 +35,6 @@ Zcash: t1WTPkVrgkUrvHXfNKdpnUC6yzpHACoxHUB
 Dogecoin: DNaLURTD6yQz1sVb31UNf2wSWjBY9Bzqss
 Solana: B8WkGBkweWdx3n9vSHV388VH8TUkrAZ3HDqNn5Ws2yDB
 SHIBA INU : 0x0a04aB002bC076649f1098321E112697321d7A5F - ERC20
-
-
-
-
-
-
 ```
 
 # I'm on
@@ -51,4 +45,4 @@ SHIBA INU : 0x0a04aB002bC076649f1098321E112697321d7A5F - ERC20
 
 
 ## License
-[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+[MIT](https://www.mit.edu/~amini/LICENSE.md)
