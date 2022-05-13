@@ -1,4 +1,4 @@
-# Twitter Card Generato - SEO
+# Twitter Card Generator - SEO
 Simple and easy html code maker for SEO
 
 # install git
