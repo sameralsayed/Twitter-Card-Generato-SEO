@@ -28,13 +28,12 @@ echo "Player Width:"
 read PlayerWidth
 
 echo "Description (Characters left: 194):"
-read Description
+
 
 echo "<meta name=\"twitter:card\" content=\"player\">" >> ${SiteName}.txt
-echo "<meta name=\"twitter:site\" content=\"@${SiteUsername}\">" >> ${SiteName}.txt
-echo "<meta name=\"twitter:title\" content=\"${SiteTitle}\">" >> ${SiteName}.txt
-echo "<meta name=\"twitter:image\" content=\"${Image}\">" >> ${SiteName}.txt
+echo "<meta name=\"twitter:site\" content=\"@${SiteUsername}\">" >> ${SiteNamecho "<meta name=\"twitter:title\" content=\"${SiteTitle}\">" >> ${SiteName}.tx
+
 echo "<meta name=\"twitter:player\" content=\"${PlayerURL}\">" >> ${SiteName}.txt
 echo "<meta name=\"twitter:player:height\" content=\"${PlayerHeight}\">" >> ${SiteName}.txt
 echo "<meta name=\"twitter:player:width\" content=\"${PlayerWidth}\">" >> ${SiteName}.txt
-echo "<meta name=\"twitter:description\" content=\"${Description}\">" >> ${SiteName}.txt
+echo "<meta name=\"twitter:description\" content=\"${Description}\">" >> ${SiteName}.t
