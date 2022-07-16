@@ -1,8 +1,6 @@
 # Twitter Card Generator - SEO
 Simple and easy html code maker for SEO
 
-[Buy Now](https://payhip.com/b/Y6c4f)
-
 # install git
 
 ```python
